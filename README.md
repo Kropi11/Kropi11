@@ -1,6 +1,6 @@
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kropi11&show_icons=true)
 <hr />
-<p align="center"
+<p align="center">
 <img alt="HTML5" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" />
 <img alt="CSS3" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/800px-CSS3_logo_and_wordmark.svg.png" />
 <img alt="C++" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" />
