@@ -1,4 +1,5 @@
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kropi11&show_icons=true)
+   <img alt="loading" height="200px" src="https://miro.medium.com/max/882/1*9EBHIOzhE1XfMYoKz1JcsQ.gif" />
 <hr />
 <p align="center">
 <img alt="HTML5" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" />
