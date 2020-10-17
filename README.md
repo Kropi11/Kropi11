@@ -1,4 +1,4 @@
-   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Kropi11&show_icons=true)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kropi11&layout=compact)
    <img alt="loading" height="200px" src="https://miro.medium.com/max/882/1*9EBHIOzhE1XfMYoKz1JcsQ.gif" />
 <hr />
 <p align="center">
