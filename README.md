@@ -1,5 +1,5 @@
    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kropi11&layout=compact)
-   <img alt="loading" height="200px" src="https://miro.medium.com/max/882/1*9EBHIOzhE1XfMYoKz1JcsQ.gif" />
+   <img alt="loading" height="150px" src="https://miro.medium.com/max/882/1*9EBHIOzhE1XfMYoKz1JcsQ.gif" />
 <hr />
 <p align="center">
 <img alt="HTML5" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" />
