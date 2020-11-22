@@ -1,5 +1,5 @@
 <p align="center">   
-   <img alt="loading" height="150px" src="https://miro.medium.com/max/882/1*9EBHIOzhE1XfMYoKz1JcsQ.gif" />
+   <img alt="loading" height="150px" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/8-cell.gif" />
 </p>
 <hr />
 <p align="center">
