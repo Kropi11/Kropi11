@@ -79,7 +79,7 @@ Programming languages, frameworks, and other tools that I enjoy working with.
 <p align="center" style="font-family: 'Garamond', serif;">
   <a href="https://github.com/Kropi11" target="_blank">GitHub</a> •
   <a href="https://twitter.com/Kropacek_R" target="_blank">Twitter</a> •
-  <a href="www.linkedin.com/in/richard-kropáček-1b1921237" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/richard-kropáček-1b1921237" target="_blank">LinkedIn</a>
 </p>
 
 ---
