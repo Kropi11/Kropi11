@@ -48,19 +48,19 @@ Programming languages, frameworks, and other tools that I enjoy working with.
     <tr>
       <td align="center" width="96">
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-          <img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-csharp-128.png" width="48" height="48" alt="C#" />
+          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/csharp_original_logo_icon_146578.png" width="48" height="48" alt="C#" />
         </a>
         <br><b>C#</b>
       </td>
       <td align="center" width="96">
         <a href="https://www.python.org/" target="_blank">
-          <img src="https://cdn2.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-python-2-128.png" width="48" height="48" alt="Python" />
+          <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" width="48" height="48" alt="Python" />
         </a>
         <br><b>Python</b>
       </td>
       <td align="center" width="96">
         <a href="https://www.iso.org/standard/74528.html" target="_blank">
-          <img src="https://cdn4.iconfinder.com/data/icons/coding-files-extensions/512/coding-file-extension-c-2-128.png" width="48" height="48" alt="C/C++" />
+          <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="48" height="48" alt="C/C++" />
         </a>
         <br><b>C/C++</b>
       </td>
