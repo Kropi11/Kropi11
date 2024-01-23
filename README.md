@@ -1,7 +1,7 @@
 # Richard Kropáček
 
-**|👨‍🔬 Physics & Chemistry Enthusiast** <br>
-**|🎓 Studying Cybernetics and Robotics**
+>**👨‍🔬 Physics & Chemistry Enthusiast** <br>
+>**🎓 Studying Cybernetics and Robotics**
 
 In the symphony of programming, cybersecurity, and the captivating realms of physics and chemistry, I orchestrate my passion. Each note, a code snippet; each chord, a layer of security; the melody, an exploration of the fundamental forces that shape our world.
 
